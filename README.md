@@ -3,14 +3,14 @@
 1. 引入依赖
 - gradle
 ```groovy
-    implementation 'io.github.dousx-coder:boot-dynamic-config-redis-starter:1.1.20250321-22'
+    implementation 'io.github.dousx-coder:boot-dynamic-config-redis-starter:1.1.20250322-14'
 ```
 - maven
 ```xml
     <dependency>
         <groupId>io.github.dousx-coder</groupId>
         <artifactId>boot-dynamic-config-redis-starter</artifactId>
-        <version>1.1.20250321-22</version>
+        <version>1.1.20250322-14</version>
     </dependency>
 ```
 
